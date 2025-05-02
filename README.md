@@ -12,8 +12,8 @@ This repository contains various projects that showcase my skills and experiment
 - **Project 3:** Description of your third project.
 
 ## 🛠️ Tools & Technologies
-- **Programming Languages:** Python, C++, JavaScript
-- **Frameworks:** ROS, TensorFlow
+- **Programming Languages:** Python, C++
+- **Frameworks:** ROS, RTOS, Flask
 - **Tools:** Git, Docker
 
 ## 📫 Contact Me

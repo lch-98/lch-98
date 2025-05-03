@@ -7,8 +7,8 @@ Here you will find my projects, ideas, and work related to [specific topic or in
 This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.
 
 ### 🚀 What's Inside:
-- **Project 1:** Description of your first project.
-- **Project 2:** Brief explanation of your second project.
+- **Project 1:** pico_w with FreeRTOS.
+- **Project 2:** Description of your second project.
 - **Project 3:** Description of your third project.
 
 ## 🛠️ Tools & Technologies

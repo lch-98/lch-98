@@ -4,7 +4,7 @@ Hello, and welcome to my special repository!
 Here you will find my projects, ideas, and work related to [specific topic or interest].
 
 ## About This Repository
-This repository contains various projects that showcase my skills and experiments in **Robot Software Development**.
+This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.
 
 ### 🚀 What's Inside:
 - **Project 1:** Description of your first project.

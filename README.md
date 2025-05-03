@@ -12,8 +12,8 @@ This repository contains various projects that showcase my skills and experiment
 - **Project 3:** Description of your third project.
 
 ## 🛠️ Tools & Technologies
-- **Programming Languages:** Python, C++
-- **Frameworks:** ROS, RTOS, Flask
+- **Programming Languages:** Python, C++, MATLAB
+- **Frameworks:** ROS, RTOS, Flask, matplotlib
 - **Tools:** Git, Docker
 
 ## 📫 Contact Me

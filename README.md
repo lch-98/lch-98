@@ -13,7 +13,7 @@ This repository contains various projects that showcase my skills and experiment
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, C++, MATLAB
-- **Frameworks:** ROS, RTOS, QT, Flask, matplotlib
+- **Frameworks:** ROS, RTOS, QT, Flask, Matplotlib
 - **Tools:** Git, Docker
 
 ## 📫 Contact Me

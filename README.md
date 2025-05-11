@@ -1,7 +1,7 @@
 # Welcome to My Special Repository
 
 Hello, and welcome to my special repository!  
-Here you will find my projects, ideas, and work related to Embedded or IOT.
+Here you will find my projects, ideas, and work related to Robot and Automotive.
 
 ## About This Repository
 This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.

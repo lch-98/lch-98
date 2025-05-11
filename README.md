@@ -7,18 +7,20 @@ Here you will find my projects, ideas, and work related to Embedded or IOT.
 This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.
 
 ### 🚀 What's Inside:
-- **Project 1:** pico_w with FreeRTOS.
-- **Project 2:** Description of your second project.
-- **Project 3:** Description of your third project.
+- **Project 1:** Weather information with FreeRTOS 
+- **Project 2:** Vehicle control module with AI, CAN communication
+- **Project 3:** Autonomous vehicle with Python.
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, C++, MATLAB
-- **Frameworks:** ROS, RTOS, QT, Flask, Matplotlib
+- **Frameworks:** ROS, QT, Flask, Matplotlib
+- **OS:** Linux, RTOS
 - **Tools:** Git, Docker
 
 ## 📫 Contact Me
 - GitHub: [@lch-98](https://github.com/lch-98)
 - Email: dlcndgusgnss@naver.com
+- Blog: https://blog.naver.com/dlcndgusgnss
 
 Feel free to reach out if you have any questions or would like to collaborate!
 

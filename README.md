@@ -6,7 +6,14 @@ Here you will find my projects, ideas, and work related to Embedded Systems.
 ## About This Repository
 This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
-### 🚀 What's Inside:
+## 🎓 Education
+- **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
+  *(2020.03 ~ 2024.08)* 
+- **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
+  *(2024.07 ~ 2024.11)* 
+
+
+## 🚀 What's Inside:
 - **Project 1:** Weather Information System using FreeRTOS
 - **Project 2:** Vehicle Control Module with AI and CAN Communication
 - **Project 3:** Autonomous RC Car using Python, UART, and I2C Communication

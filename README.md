@@ -7,8 +7,6 @@ Here you will find my projects, ideas, and work related to Embedded Systems.
 This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
 ## 🎓 Education
-- **Sangmyung University Cheonan Campus** — B.S. in Human Intelligence Robotics Engineering
-  *(2017.03 ~ 2019.02)* 
 - **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
   *(2020.03 ~ 2024.08)* 
 - **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track

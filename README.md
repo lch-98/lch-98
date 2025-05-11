@@ -9,12 +9,12 @@ This repository contains various projects that showcase my skills and experiment
 ### 🚀 What's Inside:
 - **Project 1:** Weather Information System with FreeRTOS 
 - **Project 2:** Vehicle control module with AI, CAN communication
-- **Project 3:** Autonomous RC Car with Python.
+- **Project 3:** Autonomous RC Car with Python, UART, I2C communication.
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, C++, MATLAB
 - **Frameworks:** ROS, QT, Flask, Matplotlib
-- **OS:** Linux, RTOS
+- **Operating Systems:** Linux, RTOS
 - **Tools:** Git, Docker
 
 ## 📫 Contact Me

@@ -7,9 +7,9 @@ Here you will find my projects, ideas, and work related to Embedded or IOT.
 This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.
 
 ### 🚀 What's Inside:
-- **Project 1:** Weather information with FreeRTOS 
+- **Project 1:** Weather Information System with FreeRTOS 
 - **Project 2:** Vehicle control module with AI, CAN communication
-- **Project 3:** Autonomous vehicle with Python.
+- **Project 3:** Autonomous RC Car with Python.
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, C++, MATLAB

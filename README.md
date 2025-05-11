@@ -1,21 +1,22 @@
 # Welcome to My Special Repository
 
 Hello, and welcome to my special repository!  
-Here you will find my projects, ideas, and work related to Embedded.
+Here you will find my projects, ideas, and work related to Embedded Systems.
 
 ## About This Repository
-This repository contains various projects that showcase my skills and experiments in **Robot and Automotive Software Development**.
+This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
 ### 🚀 What's Inside:
-- **Project 1:** Weather Information System with FreeRTOS 
-- **Project 2:** Vehicle control module with AI, CAN communication
-- **Project 3:** Autonomous RC Car with Python, UART, I2C communication.
+- **Project 1:** Weather Information System using FreeRTOS
+- **Project 2:** Vehicle Control Module with AI and CAN Communication
+- **Project 3:** Autonomous RC Car using Python, UART, and I2C Communication
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, C++, MATLAB
-- **Frameworks:** ROS, QT, Flask, Matplotlib
+- **Frameworks:** ROS, Qt, Flask, Matplotlib
 - **Operating Systems:** Linux, RTOS
-- **Tools:** Git, Docker
+- **Tools:** CMake, Git, Docker, WSL
+- **Databases:** MySQL
 
 ## 📫 Contact Me
 - GitHub: [@lch-98](https://github.com/lch-98)

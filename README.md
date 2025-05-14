@@ -6,13 +6,13 @@ Here you will find my projects, ideas, and work related to Embedded Systems.
 ## About This Repository
 This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
-## 🎓 Education
+## 🎓 Education && Career
 - **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
-  *(2020.03 ~ 2024.08)* 
+  *(2020.03 ~ 2024.08)*
+- **Naver Labs** — Assistant Robotics Engineer (Contract)  
+  *(2023.08 ~ 2024.06)* 
 - **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
   *(2024.07 ~ 2024.11)* 
-- **Naver Labs** — Assistant Robotics Engineer (Contract)  
-  *(Aug 2023 – Jun 2024)* 
 
 ## 🚀 What's Inside:
 - **Project 1:** Weather Information System using FreeRTOS

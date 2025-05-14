@@ -11,7 +11,8 @@ This repository contains various projects that showcase my skills and experiment
   *(2020.03 ~ 2024.08)* 
 - **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
   *(2024.07 ~ 2024.11)* 
-
+- **Naver Labs** — Assistant Robotics Engineer (Contract)  
+  *(Aug 2023 – Jun 2024)* 
 
 ## 🚀 What's Inside:
 - **Project 1:** Weather Information System using FreeRTOS

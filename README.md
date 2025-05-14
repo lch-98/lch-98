@@ -6,7 +6,7 @@ Here you will find my projects, ideas, and work related to Embedded Systems.
 ## About This Repository
 This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
-## 🎓 Education && Career
+## 🎓 Education & Career
 - **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
   *(2020.03 ~ 2024.08)*
 - **Naver Labs** — Assistant Robotics Engineer (Contract)  

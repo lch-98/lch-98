@@ -22,9 +22,9 @@ This repository contains various projects that showcase my skills and experiment
 ---
 
 ## 🏅 Certifications
-- **Information Processing Engineer (정보처리기사)** — Human Resources Development Service of Korea (필기 합격, 실기 예정, 2025.xx)
+- **ISTQB CTFL (국제 소프트웨어 테스팅 자격)** — International Software Testing Qualification Board (2025.02)
 - **Linux Master Level 2 (리눅스 마스터 2급)** — Korea Information & Communication Promotion Association (2025.03)  
-- **ISTQB CTFL (국제 소프트웨어 테스팅 자격)** — International Software Testing Qualification Board (2025.02)  
+- **Information Processing Engineer (정보처리기사)** — Human Resources Development Service of Korea (필기 합격, 실기 예정, 2025.xx)
 
 ---
 

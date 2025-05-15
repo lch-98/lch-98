@@ -1,5 +1,4 @@
 # Welcome to My Special Repository
-
 Hello, and welcome to my special repository!  
 Here you will find my projects, ideas, and work related to Embedded Systems.
 
@@ -9,7 +8,7 @@ This repository contains various projects that showcase my skills and experiment
 ## 🎓 Education & Career
 - **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
   *(2020.03 ~ 2024.08)*
-- **Naver Labs** — Assistant Robotics Engineer (Contract)  
+- **Naver Labs** — Assistant Robotics Engineer (Contract)
   *(2023.08 ~ 2024.06)* 
 - **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
   *(2024.07 ~ 2024.11)* 

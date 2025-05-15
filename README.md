@@ -1,33 +1,36 @@
-# Welcome to My Special Repository
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:0F172A&height=150&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=32&fontColor=ffffff" width="100%" />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=32&fontColor=ffffff&animation=twinkling)
-
+## 🚀 Welcome to My Special Repository
 Hello, and welcome to my special repository!  
 Here you will find my projects, ideas, and work related to Embedded Systems.
 
 ---
 
-## About This Repository
+## 🧠 About This Repository
 This repository contains various projects that showcase my skills and experiments in **robotics and automotive software development.**.
 
 ---
 
 ## 🎓 Education & Career
-- **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
+- 🏫 **Hanyang University ERICA Campus** — B.S. in Robotics Engineering
   *(2020.03 ~ 2024.08)*
-- **Naver Labs, Contract Position** — Assistant Robotics Engineer
+- 💼 **Naver Labs, Contract Position** — Assistant Robotics Engineer
   *(2023.08 ~ 2024.06)* 
-- **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
+- 💼 **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
   *(2024.07 ~ 2024.11)* 
 
 ---
 
-## 🚀 What's Inside:
-- **Project 1:** Weather Information System using FreeRTOS
-- **Project 2:** Vehicle Control Module with AI and CAN Communication
-- **Project 3:** Autonomous RC Car using Python, UART, and I2C Communication
+## 📁 What's Inside
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| 🛰️ **Weather Information System** | A real-time weather system using FreeRTOS. | FreeRTOS, UART, C |
+| 🚗 **Vehicle Control Module** | Intelligent module for vehicle control using AI and CAN communication. | C++, CAN, Deep Learning |
+| 🤖 **Autonomous RC Car** | A small-scale autonomous vehicle using Python and embedded protocols. | Python, UART, I2C, OpenCV |
 
 ---
+
+## 🛠️ Tools & Technologies
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -54,8 +57,9 @@ This repository contains various projects that showcase my skills and experiment
 ---
 
 ## 📫 Contact Me
-- GitHub: [@lch-98](https://github.com/lch-98)
-- Email: dlcndgusgnss@naver.com
-- Blog: [https://blog.naver.com/dlcndgusgnss](https://blog.naver.com/dlcndgusgnss)
+- 💻 GitHub: [@lch-98](https://github.com/lch-98)
+- 📧 Email: dlcndgusgnss@naver.com
+- 🌐 Blog: [https://blog.naver.com/dlcndgusgnss](https://blog.naver.com/dlcndgusgnss)
+- 🔗 LinkedIn: [LEE CHUNGHYEON](https://www.linkedin.com/in/%EC%B6%A9%ED%98%84-%EC%9D%B4-b87b74337/)
 
 Feel free to reach out if you have any questions or would like to collaborate!

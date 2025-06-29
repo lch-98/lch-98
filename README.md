@@ -33,7 +33,7 @@ This repository contains various projects that showcase my skills and experiment
 |---------|------------|------------|
 | 🛰️ **Weather Information System** | A real-time weather system using FreeRTOS. | FreeRTOS, UART, C |
 | 🚗 **Vehicle Control Module** | Intelligent module for vehicle control using AI and CAN communication. | C++, CAN, Deep Learning |
-| 🤖 **Autonomous RC Car** | A small-scale autonomous vehicle using Python and embedded protocols. | Python, UART, I2C, OpenCV |
+| 🤖 **Autonomous RC Car** | A small-scale autonomous vehicle using Python and embedded protocols. | Python, UART, I2C, OpenCV, ROS2 |
 
 ---
 

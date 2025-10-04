@@ -18,13 +18,16 @@ This repository contains various projects that showcase my skills and experiment
   *(2023.08 ~ 2024.06)* 
 - 💼 **SSAFY (Samsung Software Academy For Youth), 12th Cohort** — Embedded Robot Track
   *(2024.07 ~ 2024.11)* 
-
+- 💼 **Bear Robotics** — Technical Support Engineer
+  *(2024.12 ~ 2025.02)*
+- 💼 **Global Zeus** — Application SW Engineer
+  *(2024.08 ~ )*
 ---
 
 ## 🏅 Certifications
 - **ISTQB CTFL (국제 소프트웨어 테스팅 자격)** — International Software Testing Qualification Board (2025.02)
 - **Linux Master Level 2 (리눅스 마스터 2급)** — Korea Information & Communication Promotion Association (2025.03)  
-- **Information Processing Engineer (정보처리기사)** — Human Resources Development Service of Korea (필기 합격, 실기 예정, 2025.xx)
+- **Information Processing Engineer (정보처리기사)** — Human Resources Development Service of Korea (2025.09)
 
 ---
 

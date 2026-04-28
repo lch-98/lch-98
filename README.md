@@ -21,7 +21,7 @@ This repository contains various projects that showcase my skills and experiment
 - 💼 **Bear Robotics** — Technical Support Engineer
   *(2024.12 ~ 2025.02)*
 - 💼 **Global Zeus** — Application SW Engineer
-  *(2024.08 ~ )*
+  *(2025.08 ~ 2027.01)*
 ---
 
 ## 🏅 Certifications
